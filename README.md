@@ -1,1 +1,6 @@
 # Plotting-with-Matplotlib
+The average fare was the highest in rural cities, and lowest in urban cities, but the number of rides was the highest in urban cities and lowest in rural cities.
+
+We also see urban cities dominated the percentage of total fares, total rides, and total drivers, with suburban cities following urban cities in these categories, and rural cities taking up the least of the Pyber market.
+
+These observations seem reasonable since urban cities generally have much higher population densities than suburban and rural cities. Urban cities are generally also much less spaced out, so the lower fare seems reasonable given the typically shorter distance between the pickup point and drop off point, and since rural towns are generlly more spaced out and more sparsely populated (farmlands/large backyards/ranches/etc.), the average fare is higher and number of rides in lower. Since suburban cities are in the in-between in terms of size and population relative to urban and rural cities, it's reasonable to see the average fare value and total number of rides for suburban towns to be between those of the average values for urban and rural cities.
